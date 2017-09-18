@@ -1,2 +1,2 @@
-# gSlider
-## Simple responsive slider using jQuery + Bootstrap 
+## gSlider
+### Simple responsive slider using jQuery + Bootstrap 
